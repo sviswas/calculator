@@ -1,0 +1,105 @@
+.container{
+    height:360px;
+    width:380px;
+    border:2px solid red;
+    margin:auto;
+    background-color: #c5b7b7;
+    margin-top:10%;
+    padding:15px;
+}
+.main_heading{
+    font-weight:bold;
+    font-size: 25px;
+    margin-top:0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+}
+label{
+    font-size:18px;
+}
+#n1{
+    margin-top:10px;
+    height:30px;
+    width:300px;
+    text-align:center;
+    filter:drop-shadow(0 0 0.2rem black);
+    border:1px solid black;
+    border-radius:10px;
+}
+.exp_div{
+    text-align:center;
+}
+#result{
+    height:50px;
+    width:80px;
+    border-radius:20px;
+    margin-top:30px;
+    background-color:black;
+    text-align:center;
+    color:white;
+    border-width: 0px;
+}
+.result_div
+{
+    text-align:center;
+}
+#exp{
+    height:50px;
+    width:fit-content;
+    border-width:0px;
+    border-radius:20px;
+    margin-top:30px;
+    background-color:black;
+    text-align:center;
+    color:white;   
+}
+.btn{
+    text-align:center;   
+    margin-top:10%;
+    display:flex;
+  
+    justify-content: space-evenly;
+}
+#add{
+    padding:12px;
+    border-radius:10px;
+    color:white;
+    background-color:brown;
+    border-width:0px;
+}
+#sub{
+    padding:12px;
+    border-radius:10px;
+    color:white;
+    background-color:brown;
+    border-width:0px;
+}
+#mul{
+    padding:12px;
+    border-radius:10px;
+    background-color:brown;
+    color:white;
+    border-width:0px;
+}
+#div{
+    padding:12px;
+    border-radius:10px;
+    color:white;
+    background-color:brown;
+    border-width:0px;
+}
+#reload{
+    background-color:aquamarine;
+    text-align: center;
+    border-radius:10px;
+    color:white;
+    padding:10px;
+}
+#equl{
+    background-color:rgb(216, 109, 131);
+    text-align: center;
+    border-radius:10px;
+    color:white;
+    padding:10px;
+    
+}
